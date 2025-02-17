@@ -1,0 +1,43 @@
+<!doctype html>
+<!--Anthony Robinson 2/16/25-->
+<html> lang="en"
+    <head>
+	    <title>Cozy Cafe Menu</title>
+		<meta charset="utf-8">
+		<link>file:///C:/Users/ajr11/OneDrive/Desktop/Web%20110/Ch.4/home.html</link>
+	</head>
+	<body>
+	body{background-color:#F5EFE6;}text-color;#4B3832
+	header{background-color:#8B5E3B;}text-color#FFFFFF
+	nav element{background-color:#D4A373;}
+	main element{background-color:#FFFFFF;}
+	footer element{background-color:#8B5E3B;}text-color#FFFFFF
+    <h1>Welcome to Cozy Cafe<h1/>
+		<p>Enjoy our selection of handcrafted drinks and freshly baked treats!</p>
+		<h2>Our Menu</h2>
+		<h3>Coffee & Beverages.</h3>
+		<h3> Pastries</h3>
+	<nav> 
+	<a href="Home.html"</a><b>Home</b>
+	<a href="Menu.html"</a><b>Menu</b>
+	</nav>
+	<main>
+	     <p>Cozy Cafe is a warm and inviting place where you can enjoy handcrafted drinks and freshly baked pastries. Wether you're catching up with friends or getting some work done, our cafe is the perfect spot to relax.</p>
+	     <ul>
+		    <li><b><strong>Espresso</strong></b>--Bold and rich cofee shot</li>
+		    <li><b><strong>Iced Latte</strong></b>--Chilled Espresso with creamy milk</li>
+		    <li><b><strong>Chai Latte</strong></b>--A spicy and aromatic tea blend</li>
+		 </ul>
+		 <ul>
+		    <li><b>Croissant</b>--Flaky,buttery pastry</li>
+			<li><b>Blueberry Muffin</b>--Baked with real blueberries</li>
+			<li><b>Chocolate Chip Cookie</b>--Soft and chewy classic treat</li>
+		 
+		 
+		 
+		 </ul>
+	</main>
+   	<footer><i>© 2025 Cozy Cafe.All Rights Reserved.</footer></i><br> 
+	  Contact:<a href="cozy@cafe.com"</a>
+	  </body    
+<html>
